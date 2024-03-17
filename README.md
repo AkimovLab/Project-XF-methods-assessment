@@ -32,6 +32,6 @@ recipes
 
 3-ITMQC_TD_widths
   
-  This is for the ITMQC dynamics within the td width approximation X, X = Subotnik, Schwarz_1 (w^2 = 1), Schwarz_2 (w^2 = 4), Schwarz_3 (w^2 = 9).
+  This is for the ITMQC dynamics within the td width approximation X, X = Subotnik, Schwartz_1 (w^2 = 1), Schwartz_2 (w^2 = 4), Schwartz_3 (w^2 = 9).
   The structure is similar to `1-ITMQC_and_other_methods`.
 
